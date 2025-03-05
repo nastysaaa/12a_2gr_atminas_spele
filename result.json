@@ -1,0 +1,37 @@
+[
+    {
+        "id": 28,
+        "vards": "Anastasija",
+        "klikski": 12,
+        "laiks": 5,
+        "datums": "2025-03-05"
+    },
+    {
+        "id": 12,
+        "vards": "Andris",
+        "klikski": 12,
+        "laiks": 6,
+        "datums": "2025-03-05"
+    },
+    {
+        "id": 23,
+        "vards": "Anastasija",
+        "klikski": 12,
+        "laiks": 6,
+        "datums": "2025-03-05"
+    },
+    {
+        "id": 21,
+        "vards": "Anastasija",
+        "klikski": 12,
+        "laiks": 7,
+        "datums": "2025-03-05"
+    },
+    {
+        "id": 26,
+        "vards": "Anastasija",
+        "klikski": 12,
+        "laiks": 7,
+        "datums": "2025-03-05"
+    }
+]
